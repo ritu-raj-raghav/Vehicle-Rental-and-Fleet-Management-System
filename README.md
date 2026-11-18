@@ -18,13 +18,6 @@ Pages and User Flows
 
 Data Layer and State Management
 
-Demo Accounts
-
-Getting Started
-
-Browser Support
-
-Future Improvements
 
 🌟 Overview
 
